@@ -1,0 +1,19 @@
+
+1. 	login into https://github.com/Chaduvula with mail: nagesh.chaduvula@gmail.com and password: chaduvula8055
+2. 	git init 
+3. 	git add .
+4. 	git commit -m "any message"
+5. 	git remote add origin https://github.com/Chaduvula/spring-boot-txn-propertymgmt.git
+
+6. 	- create token
+		Url: https://github.com/settings/tokens
+		Directions: Settings - <>Developer settings - Personal access token - Tokens (classic) - Generate new token.
+		Generated token: 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
+		
+	- command Syn: git remote set-url origin https://<github_username>:<Token>@github.com/<github_username>/<repository_name>.git
+					git remote set-url origin https://Chaduvula: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@github.com/Chaduvula/spring-boot-txn-propertymgmt.git
+	
+7. 	git push --set-upstream origin master
+
+	
+	
