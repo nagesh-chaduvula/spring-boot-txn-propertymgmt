@@ -23,10 +23,11 @@ First time git & github setup
 
 Next time onwards
 =========================
-1. git pull
-2. git status
-3. git add .
-4. git commit -m "<any message>"
-5. git push
+1. 	git pull
+2. 	git status
+3. 	git add .
+4. 	git commit -m "<any message>"
+5. 	git push
+6.	
 	
 	
